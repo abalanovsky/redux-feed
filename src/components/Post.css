@@ -1,0 +1,31 @@
+.post-item {
+    display: flex;
+    width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+}
+.user-info {
+    display: flex;
+    flex-direction: column;
+}
+.date-stamp {
+    font-size: 10px;
+    color: grey;
+}
+.addInfo-container {
+    text-align: end;
+}
+.username {
+    font-size: 10px;
+    color: grey;
+}
+.content-container {
+    padding: 40px;
+    width: 480px;
+}
+.post-button {
+    background-color: white;
+    border: 1px grey solid;
+    border-radius: 15px;
+    margin-right: 3px;
+}
